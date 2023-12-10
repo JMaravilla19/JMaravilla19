@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Maravilla
 ======================================================================================================================================
 
-JavaScript and MySQL developer
+C/C++| JavaScript | MySQL developer
 ------------------------------
 
 I am a JavaScript developer who loves both front end and backend, I enjoy working with SQL databases as well. I have a Bachelor of Science in Information Technology, graduated on 2022.
