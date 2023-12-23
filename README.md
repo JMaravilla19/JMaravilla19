@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C/C++| JavaScript | MySQL developer
 ------------------------------
 
-I am a JavaScript developer who loves both front end and backend, I enjoy working with SQL databases as well. I have a Bachelor of Science in Information Technology, graduated on 2022.
+I am a C++ and JavaScript developer who loves both front end and backend, recently started coding in C++ to create UE5 independent projects.
+I enjoy working with SQL databases as well. I have a Bachelor of Science in Information Technology, graduated on 2022.
 
 * 🌍  I'm based in Guadalajara, Jalisco Mexico.
 * ✉️  You can contact me at [juanp.maravilla.19@gmail.com](mailto:juanp.maravilla.19@gmail.com)
