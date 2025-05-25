@@ -9,7 +9,7 @@ I enjoy working with SQL databases as well. I have a Bachelor of Science in Info
 
 * 🌍  I'm based in Guadalajara, Jalisco Mexico.
 * ✉️  You can contact me at [juanp.maravilla.19@gmail.com](mailto:juanp.maravilla.19@gmail.com)
-* 🧠  I'm learning React and NodeJS.
+* 🧠  I'm learning C++ 20 and 23.
 * 🤝  I'm open to collaborating on International Projects as junior developer.
 * ⚡  I love reading and playing FromSoftware video games.
 
