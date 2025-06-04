@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Maravilla
 ======================================================================================================================================
 
-C/C++| JavaScript | MySQL developer
+C++ | MySQL developer
 ------------------------------
 
-I am a C++ and JavaScript developer who loves both front end and backend, recently started coding in C++ to create UE5 independent projects.
+I am a C++ developer, my dreamjob is to create my own games with my best friend in Unreal Engine.
 I enjoy working with SQL databases as well. I have a Bachelor of Science in Information Technology, graduated on 2022.
 
 * 🌍  I'm based in Guadalajara, Jalisco Mexico.
